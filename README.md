@@ -22,4 +22,4 @@ This Python-based game offers a unique twist on traditional dice games, incorpor
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
